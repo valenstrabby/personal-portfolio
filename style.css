@@ -1,0 +1,18 @@
+
+body {
+background-color: rgb(189, 136, 224);
+}
+
+h1 {
+color: rgb(66, 9, 119);
+font-family: Arial, sans-serif;
+}
+
+p {
+color: rgb(0, 0, 0);
+font-family: Georgia, serif;
+}
+
+main {
+padding: 20px;
+}
