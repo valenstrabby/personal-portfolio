@@ -63,3 +63,14 @@ summary {
 font-weight: bold;
 color: darkred;
 }
+
+.country-map {
+text-align: center;
+padding: 30px;
+}
+
+.country-map iframe {
+max-width: 100%;
+border-radius: 12px;
+margin-top: 10px;
+}
