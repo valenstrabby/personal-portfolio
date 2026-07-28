@@ -1,0 +1,19 @@
+# Project Retrospective
+
+## What Went Well
+
+One thing that went well was creating the basic structure of the website using HTML. I was able to organize the page with headings, paragraphs, and sections. I also learned how to use an external CSS file to style multiple pages consistently.
+
+Another thing that went well was using GitHub to store the project files. Having the files in one repository made the project more organized and easier to submit.
+
+## What Went Wrong
+
+One challenge was making sure all of the required files were named correctly and placed in the correct folders. Since the project required HTML files, CSS files, Markdown files, and a documentation folder, it was important to check the directions carefully.
+
+Another challenge was making sure the live website worked correctly through GitHub Pages. Small mistakes, like incorrect file names or broken links, could cause the website to not display the way it should.
+
+## What I Would Do Differently
+
+If I did this project again, I would create the folder structure first before adding content. That would make it easier to keep track of the required files.
+
+I would also test the website more often while building it instead of waiting until the end. This would help me catch problems earlier, especially with links, styling, and file names.
